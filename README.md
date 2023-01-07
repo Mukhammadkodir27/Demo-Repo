@@ -1,3 +1,3 @@
 # Demo Version
 
-This is demo verion of the repository creation 
+This is a demo verion of the repository creation 
